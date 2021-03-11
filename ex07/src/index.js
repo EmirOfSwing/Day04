@@ -1,8 +1,8 @@
 function main(numOne, numTwo){
 
-var remainer = numOne % numTwo;
+var remainder = numOne % numTwo;
 
-    return remainer;
+    return remainder;
 }
 
 
